@@ -7,10 +7,13 @@
 - State
 - Bootstrap + Bootswatch
 
-API's utilizadas:
+
+## API's utilizadas
 
 https://lyricsovh.docs.apiary.io/#
 
 https://www.theaudiodb.com/api_guide.php
 
+
 ## Ejemplo
+![](recorte-buscadorletras.PNG)
